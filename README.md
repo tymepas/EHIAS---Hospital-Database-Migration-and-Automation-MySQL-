@@ -1,4 +1,4 @@
-# EHIAS — Electronic Hospital Information and Automation System
+# EHIAS - Electronic Hospital Information and Automation System
 
 A relational database project built in MySQL that migrates a hospital's Excel-based records into a structured, integrity-enforced database system — complete with role-based access control, scheduling automation, and monthly reporting.
 
